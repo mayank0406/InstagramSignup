@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(225, 221, 221, 0.185);
+}
+#box1{
+    position: relative;
+    top: 50px;
+    left: 320px;
+}
+#box2{
+    position: absolute;
+    left: 475px;
+    bottom: 115px;
+    
+}
+#box3{
+    height: 400px;
+    width: 300px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    position: relative;
+    left: 780px;
+    bottom: 570px;
+    background-color: white;
+    
+}
+#box3 img{
+    /* text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+    /* font-size: 35px; */
+    height: 70px;
+    position: relative;
+    top: 30px;
+    left: 60px;
+}
+#input1{
+    height: 40px;
+    width: 250px;
+    padding-left: 10px;
+    position: relative;
+    top: 50px;
+    left: 22px;
+    font-size: 12px;
+    border: 1px solid rgba(73, 67, 67, 0.637);
+    border-radius: 5px;
+    background-color: rgba(189, 183, 183, 0.039);
+}
+#input2{
+    height: 40px;
+    width: 250px;
+    padding-left: 10px;
+    position: relative;
+    top: 60px;
+    left: 22px;
+    font-size: 12px;
+    border: 1px solid rgba(73, 67, 67, 0.637);
+    border-radius: 5px;
+    background-color: rgba(189, 183, 183, 0.039);
+}
+#login{
+height: 30px;
+width: 250px;
+position: relative;
+left: 22px;
+top: 75px;
+background-color: lightskyblue;
+border: none;
+border-radius: 5px;
+}
+#box3 p{
+    position: relative;
+    top: 90px;
+    left: 130px;
+}
+#a1{
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+    left: 70px
+    
+}
+#a2{
+    text-decoration: none;
+    position: relative;
+    top: 140px;
+    right: 70px;
+}
+
+#box4{
+    
+        height: 50px;
+        width: 300px;
+        border: 1px solid gray;
+        border-radius: 5px;
+        position: relative;
+        left: 780px;
+        bottom: 558px;
+        background-color: white;
+        padding-left: 50px;
+        padding-top: 15px;
+    }
+    #a3{
+        position: relative;
+        left: 150px;
+        bottom: 18px;
+        text-decoration: none;
+        color: blue;
+    }
+    #box5{
+        height: 50px;
+        width: 300px;
+        border: 2px solid gray;
+        position: relative;
+        left: 780px;
+        bottom: 558px;
+        border: none;
+        text-align: center;
+    }
+    #pp{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    } 
+    #btn1{
+        height: 55px;
+        width: 140px;
+        background-color: black;
+        color: white;
+        border: none;
+        border-radius: 10px;
+    }
+    #btn2{
+        height: 55px;
+        width: 140px;
+        background-color: black;
+        color: white;
+        border: none;
+        border-radius: 10px;
+    }
+    
+
